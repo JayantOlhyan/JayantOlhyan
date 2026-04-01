@@ -51,16 +51,47 @@ and permanently convinced the best ideas come from 48-hour hackathon sprints.
 
 [![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://github.com/JayantOlhyan)
 
-## 🚀 Projects I've Shipped
+## 🚀 Shipped Projects
 
-| Project | What It Does | Stack | Live |
-|---|---|---|---|
-| **FarmIQ** | AI agri platform for Indian farmers (Hindi + English) | React, Vite, Gemini API | [🔗](https://farm-iq.netlify.app) |
-| **Sentinel AI** | Real-time scam detection for Indian digital citizens | Next.js, FastAPI, Gemini | [🔗](https://sentinel-ai-1.netlify.app) |
-| **GRAVITAS** | Space debris & asteroid collision risk tracker | React, Three.js, NASA APIs | [🔗](https://gravitas-1.netlify.app) |
-| **MoneyPulse** | AI-powered personal finance manager | TypeScript, Python | [🔗](https://github.com/JayantOlhyan/MoneyPulse-Money-Manager) |
-| **HealthKinator** | AI symptom checker — research paper published | TypeScript | [🔗](https://github.com/JayantOlhyan/healthkinator-1-) |
-| **EDU.GEN** | AI-powered education tool | — | [🔗](https://github.com/JayantOlhyan/EDU.GEN) |
+> Full-stack products · AI/ML systems · Hackathon builds — each solving a real problem for real users.
+
+### 🤖 AI & Security Systems
+
+| | Project | What it does | Stack | Links |
+|---|---------|-------------|-------|-------|
+| 🔍 | **[TruthLens AI](https://github.com/JayantOlhyan/Truth-Lens-)** | Multi-modal deepfake & misinformation detector with a Trust Score Algorithm across text, image & video | `Python` `FastAPI` `Computer Vision` `LLMs` `RAG` | [📂 Repo](https://github.com/JayantOlhyan/Truth-Lens-) |
+| 🛡️ | **[Sentinel AI](https://github.com/JayantOlhyan/sentinel-ai)** | Real-time scam & fraud detection for Indian users — analyzes URLs, messages & UPI payment requests | `Next.js` `FastAPI` `Python` `ML` | [🌐 Live](https://sentinel-ai-1.netlify.app) · [📂 Repo](https://github.com/JayantOlhyan/sentinel-ai) |
+| 🛰️ | **[SpoofSentinel-GNSS](https://github.com/JayantOlhyan/SpoofSentinel-GNSS)** | GNSS spoofing attack detector using a hybrid Temporal Transformer + XGBoost ensemble with SHAP explainability — F1: **0.91** | `Python` `XGBoost` `Temporal Transformer` `SHAP` `Streamlit` | [📂 Repo](https://github.com/JayantOlhyan/SpoofSentinel-GNSS) |
+
+### 🩺 HealthTech & 🌾 AgriTech
+
+| | Project | What it does | Stack | Links |
+|---|---------|-------------|-------|-------|
+| 🩺 | **[HealthKinator](https://github.com/JayantOlhyan/healthkinator-1-)** | AI symptom checker — Akinator-style adaptive engine that narrows down conditions through dynamic questioning | `React` `Gemini API` `Node.js` | [🌐 Live](https://healthkinator-1.netlify.app) · [📂 Repo](https://github.com/JayantOlhyan/healthkinator-1-) |
+| 🌾 | **[FarmIQ](https://github.com/JayantOlhyan/FARMIQ)** | Dual-mode AI crop intelligence for Indian farmers — Hindi + English advisory with real-time recommendations & soil analysis | `React 18` `Vite` `Tailwind` `Gemini API` | [🌐 Live](https://farm-iq.netlify.app) · [📂 Repo](https://github.com/JayantOlhyan/FARMIQ) |
+
+### 🌌 Space & Data Visualization
+
+| | Project | What it does | Stack | Links |
+|---|---------|-------------|-------|-------|
+| 🪐 | **[GRAVITAS](https://github.com/JayantOlhyan/gravitas)** | Space debris & asteroid risk platform with AI-powered threat scoring, orbital path visualization & collision probability | `React` `FastAPI` `Three.js` `NASA APIs` | [🌐 Live](https://gravitas-1.netlify.app) · [📂 Repo](https://github.com/JayantOlhyan/gravitas) |
+
+### 🛒 E-Commerce, FinTech & EdTech
+
+| | Project | What it does | Stack | Links |
+|---|---------|-------------|-------|-------|
+| 🛒 | **[ShopMind AI](https://github.com/JayantOlhyan/shopmind-ai)** | E-commerce intelligence research agent — tracks, compares & summarizes products across platforms in real time | `TypeScript` `Python` `FastAPI` | [📂 Repo](https://github.com/JayantOlhyan/shopmind-ai) |
+| 💰 | **[MoneyPulse](https://github.com/JayantOlhyan/MoneyPulse-Money-Manager)** | AI-powered personal money manager — tracks expenses, categorizes spending & gives Gemini-powered financial insights | `React` `TypeScript` `Vite` | [📂 Repo](https://github.com/JayantOlhyan/MoneyPulse-Money-Manager) |
+| 📚 | **[EDU.GEN](https://github.com/JayantOlhyan/EduGen-AI)** | Personalized AI learning platform — generates study plans, quizzes & content dynamically tailored to student profiles | `JavaScript` `Python` `Gemini API` | [📂 Repo](https://github.com/JayantOlhyan/EduGen-AI) |
+
+### 🏛️ Civic & Web Platforms
+
+| | Project | What it does | Stack | Links |
+|---|---------|-------------|-------|-------|
+| 🗳️ | **[Janganana 2027](https://github.com/JayantOlhyan/janganana-2027)** | Digital census & civic data platform built for India 2027 | `React` `Node.js` | [📂 Repo](https://github.com/JayantOlhyan/janganana-2027) |
+| 🏛️ | **[MSIT College Website](https://github.com/JayantOlhyan/MSIT-)** | Official college website for MSIT Janakpuri — 30+ dynamic subpages powered by a single component architecture | `React 18` `Vite` `Tailwind` | [🌐 Live](https://msit-website.netlify.app) · [📂 Repo](https://github.com/JayantOlhyan/MSIT-) |
+| ✨ | **[Portfolio v2](https://github.com/JayantOlhyan/Jayant-Olyan-Portfolio-2-)** | Upgraded portfolio with refined UI, animations & richer project showcase | `React` `Vite` `Framer Motion` | [🌐 Live](https://jayant-olhyan-portfolio-2.netlify.app) · [📂 Repo](https://github.com/JayantOlhyan/Jayant-Olyan-Portfolio-2-) |
+
 
 [![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://github.com/JayantOlhyan)
 
@@ -84,17 +115,18 @@ and permanently convinced the best ideas come from 48-hour hackathon sprints.
 
 ## 🏆 Hackathon Journey
 
-I've competed, won, and **judged at 20+ hackathons** across India under the banner of **Team Hack Homies**.
+I've competed, won, and **judged at 20+ hackathons** across India under the banner of **Team Hack Homies**. From 48-hour builds to judging panels — hackathons are where I think clearest and build fastest.
 
-| Hackathon | Role | Project |
-|---|---|---|
-| Elite Hack 1.0 — Elite Coders Web Track | Competitor | FarmIQ |
-| Hack Paradox 2026 | Competitor | Sentinel AI |
-| Advitiya '26, IIT Ropar — Cyber Forge | Competitor | GRAVITAS |
-| MRIIRS International Conference 2026 | Speaker / Researcher | Health Akinator (AI) |
-| 20+ Hackathons across India | **Panelist / Judge** | — |
-
-> From 48-hour builds to judging panels — hackathons are where I think clearest and build fastest.
+| Project | Event | Context / Role |
+|---------|-------|---------|
+| 🌾 **FarmIQ** | Elite Hack 1.0 | Crop AI for Bharat 🇮🇳 |
+| 🛡️ **Sentinel AI** | Hack Paradox 2026 | Scam protection for Indian users |
+| 🪐 **GRAVITAS** | Cyber Forge @ Advitiya '26, IIT Ropar | Space debris risk platform |
+| 🔍 **TruthLens AI** | ET Gen AI Hackathon | *(w/ Aryan Jha, NSUT)* · Deepfake detection |
+| 🛰️ **SpoofSentinel** | NyneOS Anti-Spoofing @ IIT Delhi | GNSS signal security · F1: 0.91 |
+| 🛒 **ShopMind AI** | Hack Geek Room 2026 | E-commerce research agent |
+| 🩺 **HealthKinator** | MRIIRS International Conference '26 | 📄 Research published / Speaker |
+| **Various** | 20+ Hackathons across India | **Panelist / Judge** |
 
 [![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://github.com/JayantOlhyan)
 
