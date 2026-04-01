@@ -15,7 +15,9 @@
 
 ---
 
-[![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://github.com/JayantOlhyan)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line animation" width="100%" />
+</div>
 
 ## 🧑‍💻 About Me
 
@@ -36,20 +38,26 @@ A few things that define how I work:
 I'm strongest in **backend systems, APIs, and databases**, always leveling up on design,  
 and permanently convinced the best ideas come from 48-hour hackathon sprints.
 
-[![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://github.com/JayantOlhyan)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line animation" width="100%" />
+</div>
 
 ## 🌐 Connect With Me
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayant-olhyan-5057292a1/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JayantOlhyan)
-
-📍 **Delhi, India** &nbsp;|&nbsp; 📝 **Daily LinkedIn Posts** &nbsp;|&nbsp; 💻 **5+ Commits/Day**
-
+  <a href="https://www.linkedin.com/in/jayant-olhyan-5057292a1/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/JayantOlhyan">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <br><br>
+  📍 **Delhi, India** &nbsp;|&nbsp; 📝 **Daily LinkedIn Posts** &nbsp;|&nbsp; 💻 **5+ Commits/Day**
 </div>
 
-[![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://github.com/JayantOlhyan)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line animation" width="100%" />
+</div>
 
 ## 🚀 Shipped Projects
 
@@ -92,16 +100,19 @@ and permanently convinced the best ideas come from 48-hour hackathon sprints.
 | 🏛️ | **[MSIT College Website](https://github.com/JayantOlhyan/MSIT-)** | Official college website for MSIT Janakpuri — 30+ dynamic subpages powered by a single component architecture | `React 18` `Vite` `Tailwind` | [🌐 Live](https://msit-website.netlify.app) · [📂 Repo](https://github.com/JayantOlhyan/MSIT-) |
 | ✨ | **[Portfolio v2](https://github.com/JayantOlhyan/Jayant-Olyan-Portfolio-2-)** | Upgraded portfolio with refined UI, animations & richer project showcase | `React` `Vite` `Framer Motion` | [🌐 Live](https://jayant-olhyan-portfolio-2.netlify.app) · [📂 Repo](https://github.com/JayantOlhyan/Jayant-Olyan-Portfolio-2-) |
 
-
-[![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://github.com/JayantOlhyan)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line animation" width="100%" />
+</div>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,python,fastapi,nodejs,tailwind,vite,html,css,git,github,netlify,vercel,figma,postgres,mongodb&perline=9)](https://skillicons.dev)
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,python,fastapi,nodejs,tailwind,vite,html,css,git,github,netlify,vercel,figma,postgres,mongodb&perline=9" alt="My Skills" />
+  </a>
 </div>
+
+<br>
 
 **🤖 AI Tools I Use Daily**
 
@@ -111,7 +122,9 @@ and permanently convinced the best ideas come from 48-hour hackathon sprints.
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-[![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://github.com/JayantOlhyan)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line animation" width="100%" />
+</div>
 
 ## 🏆 Hackathon Journey
 
@@ -128,43 +141,59 @@ I've competed, won, and **judged at 20+ hackathons** across India under the bann
 | 🩺 **HealthKinator** | MRIIRS International Conference '26 | 📄 Research published / Speaker |
 | **Various** | 20+ Hackathons across India | **Panelist / Judge** |
 
-[![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://github.com/JayantOlhyan)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line animation" width="100%" />
+</div>
 
 ## 🏅 GitHub Trophies
 
 <div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=JayantOlhyan&theme=radical&no-frame=true&margin-w=15&margin-h=15)](https://github.com/JayantOlhyan)
-
+  <a href="https://github.com/JayantOlhyan">
+    <img src="https://github-profile-trophy.vercel.app/?username=JayantOlhyan&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
 </div>
 
-[![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://github.com/JayantOlhyan)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line animation" width="100%" />
+</div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Jayant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JayantOlhyan&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JayantOlhyan&layout=compact&theme=radical&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=JayantOlhyan&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=JayantOlhyan&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Jayant's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayantOlhyan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <br><br>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=JayantOlhyan&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
-[![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://github.com/JayantOlhyan)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line animation" width="100%" />
+</div>
 
 ## 📈 GitHub Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JayantOlhyan&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JayantOlhyan&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  </a>
+</div>
 
-[![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://github.com/JayantOlhyan)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line animation" width="100%" />
+</div>
 
 ## 👻 Pac-Man Eats My Contributions
 
-![Pac-Man](https://pacman.abozanona.me?username=JayantOlhyan)
+<div align="center">
+  <img src="https://pacman.abozanona.me?username=JayantOlhyan" alt="Pac-Man" />
+</div>
 
-[![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://github.com/JayantOlhyan)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line animation" width="100%" />
+</div>
 
 ## 📅 What I'm Up To
 
@@ -174,7 +203,9 @@ I've competed, won, and **judged at 20+ hackathons** across India under the bann
 - 🏗️ Always cooking the next hackathon project with **Team Hack Homies**
 - 📚 CSE undergrad @ **MSIT Janakpuri, New Delhi**
 
-[![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://github.com/JayantOlhyan)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line animation" width="100%" />
+</div>
 
 ## 💡 Let's Collaborate!
 
