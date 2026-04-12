@@ -89,7 +89,7 @@ and permanently convinced the best ideas come from 48-hour hackathon sprints.
 | | Project | What it does | Stack | Links |
 |---|---------|-------------|-------|-------|
 | 🛒 | **[ShopMind AI](https://github.com/JayantOlhyan/shopmind-ai)** | E-commerce intelligence research agent — tracks, compares & summarizes products across platforms in real time | `TypeScript` `Python` `FastAPI` | [📂 Repo](https://github.com/JayantOlhyan/shopmind-ai) |
-| 💰 | **[MoneyPulse](https://github.com/JayantOlhyan/MoneyPulse-Money-Manager)** | AI-powered personal money manager — tracks expenses, categorizes spending & gives Gemini-powered financial insights | `React` `TypeScript` `Vite` | [📂 Repo](https://github.com/JayantOlhyan/MoneyPulse-Money-Manager) |
+| 💰 | **[MoneyPulse](https://github.com/JayantOlhyan/MoneyPulse-Money-Manager)** | AI-powered personal money manager — tracks expenses, categorizes spending & gives .Gemini-powered financial insights | `React` `TypeScript` `Vite` | [📂 Repo](https://github.com/JayantOlhyan/MoneyPulse-Money-Manager) |
 | 📚 | **[EDU.GEN](https://github.com/JayantOlhyan/EduGen-AI)** | Personalized AI learning platform — generates study plans, quizzes & content dynamically tailored to student profiles | `JavaScript` `Python` `Gemini API` | [📂 Repo](https://github.com/JayantOlhyan/EduGen-AI) |
 
 ### 🏛️ Civic & Web Platforms
