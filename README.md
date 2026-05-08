@@ -187,14 +187,25 @@ I've competed, won, and **judged at 20+ hackathons** across India under the bann
 
 ## 👻 Pac-Man Eats My Contributions
 
-<div align="center">
-  <img src="https://pacman.abozanona.me?username=JayantOlhyan" alt="Pac-Man" />
-</div>
+import { PacmanRenderer, PlayerStyle } from 'pacman-contribution-graph';
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line animation" width="100%" />
-</div>
-
+const renderer = new PacmanRenderer({
+	username: 'your_username',
+	platform: 'github', // or 'gitlab'
+	gameTheme: 'github-dark', // 'github', 'github-dark', 'gitlab', or 'gitlab-dark'
+	playerStyle: PlayerStyle.OPPORTUNISTIC, // CONSERVATIVE, AGGRESSIVE, or OPPORTUNISTIC
+	svgCallback: (svg) => {
+		// called with the generated SVG string
+		document.getElementById('output').innerHTML = svg;
+	},
+	gameOverCallback: () => {
+		console.log('Game over!');
+	},
+	pointsIncreasedCallback: (points) => {
+		console.log('Score:', points);
+	}
+});
+renderer.start();
 ## 📅 What I'm Up To
 
 - 🔨 Shipping **5+ commits every single day** — no exceptions
